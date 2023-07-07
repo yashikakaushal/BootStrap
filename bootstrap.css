@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+.btn{
+    background-color: blue;
+    height: 50px;
+    width:100px;
+}
+.btn-btn-primary{
+    background-color: red;
+    height: 50px;
+    width: 100px;
+}
+.btn-outline-dark{
+    color: grey;
+    background-color: white;
+}
+.btn-btn-lg-btn-outline-dark{
+    background-color: aliceblue;
+    height: 50px;
+    width: 100px;
+}
