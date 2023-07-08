@@ -1,0 +1,50 @@
+
+.features{
+    background-color: #ff4c68;
+}
+.carousel-item{
+    height: 400px;
+    width: 400px;
+}
+.color{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    position:absolute;
+}
+
+.red{
+    background-color: red;
+    width:200px;
+    height: 200px;
+    position: absolute;
+    top:0px;
+    left:400px;
+}
+.yellow{
+    background-color: yellow;
+    width:200px;
+    height: 200px;
+    position: absolute;
+    top:0px;
+    position: fixed;
+}
+.blue{
+    background-color: blue;
+    width:200px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    left: 200px;
+}
+.grey{
+    background-color: grey;
+    width: 600px;
+    height: 600px;
+
+}
+@media(min-width:900px) {
+h1{
+    color: red;
+}
+}
